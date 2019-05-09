@@ -1,1 +1,4 @@
-# Define the variable board below.
+# Define the variabl
+
+board = []
+board.push(" ", " ", " ", " ", " ", " ", " ", " "," ")
